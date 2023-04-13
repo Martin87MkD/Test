@@ -1,0 +1,15 @@
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\bin\Debug\net6.0\TestApp.exe
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\bin\Debug\net6.0\ref\TestApp.dll
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Martin\GIT\Projects\Test\TestApp\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
